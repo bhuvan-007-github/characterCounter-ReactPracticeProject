@@ -1,4 +1,48 @@
-The goal of this coding exam is to quickly get you off the ground with **Lists and Keys** in React JS.
+
+
+
+# 📝 Character Counter
+
+A lightweight React.js application designed to **count the number of characters** in a given word or sentence. This project serves as a demonstration of clean React practices and usage of key libraries.
+
+---
+
+## 🚀 Project Purpose
+
+This project was built to exhibit core **React.js development skills**, including component-based architecture, state management, and integration of third-party packages such as `styled-components` and `uuid`.
+
+---
+
+## 🧰 Tech Stack
+
+- **React.js**  
+- **JavaScript (ES6+)**  
+- **HTML5**  
+- **Styled-components** *(for styling)*  
+- **UUID** *(for unique key generation)*  
+- **Git** *(for version control)*
+
+---
+
+## ✅ Features
+
+- Accepts input from the user and displays the total number of characters upon pressing **"Add"**.
+- Displays a clear **error message** if:
+  - The input field is submitted empty.
+  - All characters are removed after initially typing something.
+
+---
+
+## 🧪 How to Use
+
+1. Type a word or sentence into the input box.
+2. Click the **Add** button.
+3. View the number of characters instantly.
+4. If the input box is empty or cleared, an error message will appear:  
+   `"Please enter text"`.
+
+---
+
 
 ### Refer to the image below:
 
@@ -27,34 +71,6 @@ The goal of this coding exam is to quickly get you off the ground with **Lists a
 - Start up the app using `npm start`
 </details>
 
-### Completion Instructions
-
-<details>
-<summary>Functionality to be added</summary>
-<br/>
-
-The app must have the following functionalities
-
-- Initially, the value of the user input element should be empty and [No User Inputs View](https://assets.ccbp.in/frontend/content/react-js/character-counter-no-user-inputs-lg-output.png) should be displayed.
-- When a non-empty value is provided in the user input element and the **Add** button is clicked,
-  - A new user input item should be added to the list of user inputs.
-  - The count of characters of the value provided in the user input element should be displayed.
-  - The value inside the user input element should be updated to its initial value.
-
-</details>
-
-### Important Note
-
-<details>
-<summary>Click to view</summary>
-
-<br/>
-
-**The following instruction is required for the tests to pass**
-
-- Use the `uuid` package to generate the unique id.
-
-</details>
 
 ### Resources
 
@@ -62,6 +78,13 @@ The app must have the following functionalities
 <summary>Image URLs</summary>
 
 - https://assets.ccbp.in/frontend/react-js/no-user-inputs-img.png alt should be **no user inputs**
+
+</details>
+
+<details>
+<summary>Font-families</summary>
+
+- Roboto
 
 </details>
 
@@ -81,15 +104,12 @@ The app must have the following functionalities
 
 </details>
 
-<details>
-<summary>Font-families</summary>
 
-- Roboto
 
-</details>
+## 👤 Author
 
-> ### _Things to Keep in Mind_
->
-> - All components you implement should go in the `src/components` directory.
-> - Don't change the component folder names as those are the files being imported into the tests.
-> - **Do not remove the pre-filled code**
+GitHub: [@your-github-account-name](https://github.com/your-github-account-name)
+
+---
+
+
