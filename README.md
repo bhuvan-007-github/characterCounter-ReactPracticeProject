@@ -108,7 +108,7 @@ This project was built to exhibit core **React.js development skills**, includin
 
 ## 👤 Author
 
-GitHub: [@your-github-account-name](https://github.com/your-github-account-name)
+GitHub: [@bhuvan-007-github](https://github.com/bhuvan-007-github)
 
 ---
 
